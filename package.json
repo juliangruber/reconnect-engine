@@ -1,0 +1,26 @@
+{
+  "name": "reconnect-engine",
+  "description": "Reconnect an engine.io stream when it goes down.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/reconnect-engine.git"
+  },
+  "homepage": "https://github.com/juliangruber/reconnect-engine",
+  "main": "index.js",
+  "dependencies": {
+    "reconnect-core": "~0.0.0",
+    "engine.io-stream": "~0.3.2"
+  },
+  "keywords": [
+    "reconnect",
+    "engine.io",
+    "websocket"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
