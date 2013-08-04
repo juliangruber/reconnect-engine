@@ -1,7 +1,7 @@
 {
   "name": "reconnect-engine",
   "description": "Reconnect an engine.io stream when it goes down.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/juliangruber/reconnect-engine.git"
